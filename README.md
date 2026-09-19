@@ -18,7 +18,7 @@ The main dataset used in this research will be transaction_data.csv, as it conta
 Target Variable: SALES_VALUE
 
 The dataset that is used is 
-[kaggle](https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey)  
+https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey 
 
 ## Methodology
 
